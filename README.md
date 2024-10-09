@@ -1,3 +1,6 @@
+Data Analysis Project using Python
+----------------------------------------
+
 Project Overview
 -----------------------------
 This project is focused on performing comprehensive data analysis using Python and various data science libraries. Through this project, I have gained hands-on experience with essential Python libraries like Pandas, NumPy, Matplotlib, and Seaborn, which are crucial for data manipulation, analysis, and visualization. The aim of the project is to extract meaningful insights from the dataset, clean and preprocess the data, and create compelling visualizations that enhance understanding.
